@@ -1,0 +1,12 @@
+Package: apulse
+Version: 0.1-1
+Architecture: amd64
+Maintainer: Vincenzo (KatolaZ) Nicosia <katolaz@freaknet.org>
+Installed-Size: 138
+Depends: libasound2 (>= 1.0.18), libc6 (>= 2.17), libglib2.0-0 (>= 2.14.0), libalsaplayer0
+Section: libs
+Priority: optional
+Homepage: https://github.com/i-rinat/apulse.git
+Description: PulseAudio emulation for ALSA
+  apulse provides and alternative partial implementation of
+  the PulseAudio API which allows to continue using ALSA.

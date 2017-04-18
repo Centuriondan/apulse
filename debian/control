@@ -1,0 +1,17 @@
+Source: apulse
+Priority: optional
+Maintainer: Vincenzo (KatolaZ) Nicosia <katolaz@freaknet.org>
+Build-Depends: debhelper (>=9), cmake (>=2.8.8), libasound2-dev, pkg-config, libglib2.0-dev
+Standards-Version: 3.9.8
+Section: libs
+Homepage: https://github.com/i-rinat/apulse.git 
+Vcs-Git: https://github.com/i-rinat/apulse.git 
+Vcs-Browser: https://github.com/i-rinat/apulse
+
+
+Package: apulse
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libalsaplayer0
+Description: PulseAudio emulation for ALSA
+  apulse provides and alternative partial implementation of 
+  the PulseAudio API which allows to continue using ALSA. 
