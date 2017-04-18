@@ -1,7 +1,0 @@
-4323a518ebe8696bb7ffe7a68c28a1c1  usr/bin/apulse
-81243557061d085767700c513d85895d  usr/lib/x86_64-linux-gnu/apulse/libpulse-simple.so.0
-af6d0be403f4d042ddef137e3bdeb21c  usr/lib/x86_64-linux-gnu/apulse/libpulse.so.0
-9c9f95cc3ddc057ea84ab33181c3d173  usr/lib/x86_64-linux-gnu/apulse/libpulsecommon-5.0.so
-3196103b9b48bd5cf69202be27e1832e  usr/share/doc/apulse/README.Debian
-487d41606a910f23c1da057a212c5fcf  usr/share/doc/apulse/changelog.Debian.gz
-a7e47007df144d4c834058ef2009337b  usr/share/doc/apulse/copyright

@@ -1,5 +1,0 @@
-#!/bin/sh
-
-APULSEPATH="/usr/lib/x86_64-linux-gnu/apulse"
-
-LD_LIBRARY_PATH=$APULSEPATH${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH} exec "$@"
